@@ -1,0 +1,116 @@
+<div id="main_content_inner"><div class="page-title page-title__yellow" id="page-title"><h1 class="page-title__title">Практикующий юрист в городе Барнаул Босоногов Алексей Евгеньевич. <span class="nobr">Тел. 8(923)645-88-06</span></h1>
+</div><div class="uristnavigation"><a href="http://img.9111.ru/img/urists/big/20146.jpg" target="_blank" rel="iLoad"><img class="uristnavigation__photo" src="http://img.9111.ru/img/urists/20146.jpg"></a><ul class="nav_left-urist">			<li style="height:20px; padding:10px 0; text-align:center;"><span class="urist__isoffline" style="margin-top:0;">нет на сайте</span></li>
+	
+				<li style="height:30px;">
+			<a class="uristnavigation__toplinks uristnavigation__blag" href="http://urist20146.9111.ru/reviews/">Отзывы (2190)</a>
+		</li>
+				<li style="height:30px;">
+			<a class="uristnavigation__toplinks uristnavigation__topurist" href="http://www.9111.ru/urists/voting/">Юрист дня 3 разa</a>
+		</li>
+	</ul><br><ul class="nav_left-urist">						<li class="nav-left__bg-orange nav-left__bg-active"><div class="nav-left__bg-authorize_cont">
+			<span class="nav-left__user-link nav-left__user-link-active" title="Страница юриста">Страница юриста </span>
+			</div></li>
+									<li class="nav-left__bg-orange"><div class="nav-left__bg-authorize_cont">
+			<a class="nav-left__user-link" href="http://urist20146.9111.ru/info/">Общая информация</a> 
+			</div></li>
+									<li class="nav-left__bg-orange"><div class="nav-left__bg-authorize_cont">
+			<a class="nav-left__user-link" href="http://urist20146.9111.ru/portfolio/">Портфолио</a> 
+			</div></li>
+									<li class="nav-left__bg-orange"><div class="nav-left__bg-authorize_cont">
+			<a class="nav-left__user-link" href="http://urist20146.9111.ru/messages/">Интернет-консультация</a> 
+			</div></li>
+									<li class="nav-left__bg-orange"><div class="nav-left__bg-authorize_cont">
+			<a class="nav-left__user-link" href="http://urist20146.9111.ru/price/">Прайс-лист</a> 
+			</div></li>
+						<li class="nav-left__bg-orange"><div class="nav-left__bg-authorize_cont">
+			<a class="nav-left__user-link uristnavigation__make_present" href="http://urist20146.9111.ru/presents/#" onclick="presents_list('0',20146, 'urist');return false;">Сделать подарок</a>
+		</div></li>
+							<li class="nav-left__bg-orange"><div class="nav-left__bg-authorize_cont">
+			<a class="nav-left__user-link" href="http://urist20146.9111.ru/answers/week/">Мои ответы</a> (5985)
+			</div></li>
+									<li class="nav-left__bg-orange"><div class="nav-left__bg-authorize_cont">
+			<a class="nav-left__user-link" href="http://urist20146.9111.ru/blog/">Мой блог</a> 
+			</div></li>
+									<li class="nav-left__bg-orange"><div class="nav-left__bg-authorize_cont">
+			<a class="nav-left__user-link" href="http://urist20146.9111.ru/friends/">Мои друзья</a> 
+			</div></li>
+									<li class="nav-left__bg-orange"><div class="nav-left__bg-authorize_cont">
+			<a class="nav-left__user-link" href="http://urist20146.9111.ru/albums/">Мои фотоальбомы</a> 
+			</div></li>
+									<li class="nav-left__bg-orange"><div class="nav-left__bg-authorize_cont">
+			<a class="nav-left__user-link" href="http://urist20146.9111.ru/presents/">Мои подарки</a> 
+			</div></li>
+						<!--noindex-->
+		<li class="nav-left__bg-orange"><div class="nav-left__bg-authorize_cont">
+			<a class="nav-left__user-link" href="http://www.9111.ru/links/out/?http://www.yandex.ru/yandsearch?text=%C1%EE%F1%EE%ED%EE%E3%EE%E2+%C0%EB%E5%EA%F1%E5%E9+%C5%E2%E3%E5%ED%FC%E5%E2%E8%F7" target="_blank" rel="nofollow">Я в Яндексе</a>
+		</div></li>
+		<!--/noindex-->
+				<!--noindex-->
+		<li class="nav-left__bg-orange"><div class="nav-left__bg-authorize_cont">
+			<a class="nav-left__user-link" href="http://www.9111.ru/links/out/?http://www.google.ru/search?q=%C1%EE%F1%EE%ED%EE%E3%EE%E2+%C0%EB%E5%EA%F1%E5%E9+%C5%E2%E3%E5%ED%FC%E5%E2%E8%F7" target="_blank" rel="nofollow">Я в Google</a>
+		</div></li>
+		<!--/noindex-->
+	</ul><ul class="nav_left-urist">	<li class="nav-left-urist__rubrik">ПУБЛИКАЦИИ</li>
+						<li class="nav-left__bg-orange"><div class="nav-left__bg-authorize_cont">
+			<a class="nav-left__user-link" href="http://urist20146.9111.ru/judgement/">Мои судебные<br>решения</a> 
+			</div></li>
+									<li class="nav-left__bg-orange"><div class="nav-left__bg-authorize_cont">
+			<a class="nav-left__user-link" href="http://urist20146.9111.ru/practice/">Случаи из моей<br>практики</a> 
+			</div></li>
+									<li class="nav-left__bg-orange"><div class="nav-left__bg-authorize_cont">
+			<a class="nav-left__user-link" href="http://urist20146.9111.ru/articles/">Мои статьи</a> 
+			</div></li>
+									<li class="nav-left__bg-orange"><div class="nav-left__bg-authorize_cont">
+			<a class="nav-left__user-link" href="http://urist20146.9111.ru/news/">Новости</a> 
+			</div></li>
+									<li class="nav-left__bg-orange"><div class="nav-left__bg-authorize_cont">
+			<a class="nav-left__user-link" href="http://urist20146.9111.ru/cases/">Дела</a> 
+			</div></li>
+			</ul>
+</div><div id="uristcontent" class="uristcontent" style="width:450px;"><div style="display:none; margin-left:-140px;" id="gl0_20146"></div><p class="greeting">~ Хороший юрист заставит поверить в правду, отличный юрист – в ложь.~<br></p><table class="t_uristinfo"><colgroup><col width="130"><col width="320"></colgroup><tbody><tr><th colspan="2" class="subheader">Общая информация: <a class="fr subheader__link-more" href="http://urist20146.9111.ru/info/">Показать подробную информацию</a></th></tr><tr><td class="td_n">Страна:</td><td><img class="countryflag" src="//img.9111.ru/img/flags/russia.gif" alt="Россия"><span style="padding-left:5px; padding-top:5px;">Россия</span></td></tr><tr><td class="td_n">Адрес:</td><td>
+	Алтайский край
+			, г. Барнаул, 50 лет СССР д.27, офис 1
+				<a id="show_map" href="#" onclick="showAddress('г. Барнаул, 50 лет СССР д.27, офис 1', '83.776282', '53.348779'); $('#show_map').hide(); return false;">Показать на карте</a></td></tr><tr><td colspan="2"><div id="YMapsID" style="display:none;height:350px"></div></td></tr><tr><td class="td_n">Контактный телефон</td><td>8(923)645-88-06 - консультации по телефону от 300 рублей.</td></tr><tr><td class="td_n">Мобильный телефон</td><td>8-923-645-88-06 (консультации платно)</td></tr><tr><td class="td_n">E-Mail</td><td>legalprotekt@yandex.ru</td></tr><tr><td class="td_n">Адрес сайта</td><td><a target="_blank" rel="nofollow" href="http://www.9111.ru/links/out/?http://urist20146.9111.ru/">http://urist20146.9111.ru/</a></td></tr></tbody></table>	<h2 class="subheader"><a class="fr subheader__link-more" href="http://urist20146.9111.ru/reviews/">Посмотреть все отзывы</a>Отзывы, благодарности</h2>
+	<div style="padding-left:5px;">
+		<p class="blag_dt"><b>05.02.2014&nbsp;&nbsp;19:43</b>, за ответ на вопрос <a href="http://www.9111.ru/questions/q3321163.html">3321163</a></p>
+		<p class="blag_txt">Спасибо за ответ!
+			</p>
+		</div>
+	<div style="padding-left:5px;">
+		<p class="blag_dt"><b>05.02.2014&nbsp;&nbsp;19:37</b>, за ответ на вопрос <a href="http://www.9111.ru/questions/q3322537.html">3322537</a></p>
+		<p class="blag_txt" style="border-bottom:0;">Спасибо за ответ!
+			</p>
+		</div>
+
+
+			<h2 class="subheader">
+			<a class="fr subheader__link-more" href="http://urist20146.9111.ru/presents/">Все подарки</a> 
+			<a class="fr subheader__link-more" href="http://urist20146.9111.ru/presents/" onclick="presents_list('0', 20146, 'urist');return false;" style="padding-right:10px;">Сделать подарок</a>
+		Мои подарки</h2>
+		<br class="clear">
+			<a href="http://urist1181722.9111.ru/" style="margin-left:3px;"><img src="//img.9111.ru/img/presents/newyear_dedmoroz.png" style="height:32px;"></a>
+			<a href="http://user139524.9111.ru/" style="margin-left:3px;"><img src="//img.9111.ru/img/presents/newyear_dedmoroz.png" style="height:32px;"></a>
+			<a href="http://user584040.9111.ru/" style="margin-left:3px;"><img src="//img.9111.ru/img/presents/look-at-my-eyes!2-aqua.jpg" style="height:32px;"></a>
+			<a href="http://user1208167.9111.ru/" style="margin-left:3px;"><img src="//img.9111.ru/img/presents/256.jpg" style="height:32px;"></a>
+			<a href="http://user1190841.9111.ru/" style="margin-left:3px;"><img src="//img.9111.ru/img/presents/musicicon.jpg" style="height:32px;"></a>
+			<a href="" style="margin-left:3px;"><img src="//img.9111.ru/img/presents/untitled-1.jpg" style="height:32px;"></a>
+			<a href="http://user1239155.9111.ru/" style="margin-left:3px;"><img src="//img.9111.ru/img/presents/iphonethemearchigraphs_512x512.jpg" style="height:32px;"></a>
+			<a href="http://urist1263123.9111.ru/" style="margin-left:3px;"><img src="//img.9111.ru/img/presents/untitled-1.jpg" style="height:32px;"></a>
+			<a href="http://user463581.9111.ru/" style="margin-left:3px;"><img src="//img.9111.ru/img/presents/256.jpg" style="height:32px;"></a>
+			<a href="http://user324408.9111.ru/" style="margin-left:3px;"><img src="//img.9111.ru/img/presents/iphonethemearchigraphs_512x512.jpg" style="height:32px;"></a>
+			<a href="http://user224674.9111.ru/" style="margin-left:3px;"><img src="//img.9111.ru/img/presents/roses_heart.jpg" style="height:32px;"></a>
+		<h2 class="subheader"><a class="fr subheader__link-more" href="http://urist20146.9111.ru/answers/week/">Посмотреть все ответы</a>
+Ответы
+					юриста
+		</h2>
+			<h2 class="subheader subheader__bg-grey"><span class="post_dt">сегодня 19:14</span><a href="http://www.9111.ru/questions/q3322537-problema-s-advokatom.html">Адвокат получил гонорар и пропал. Что в этом случае делать</a></h2>
+			<h2 class="subheader subheader__bg-grey"><span class="post_dt">сегодня 19:14</span><a href="http://www.9111.ru/questions/q3322541-galoba-obrazets.html">Как написать жалобу на учителя в РОСОБРНАДЗОР, за</a></h2>
+			<h2 class="subheader subheader__bg-grey"><span class="post_dt">сегодня 19:01</span><a href="http://www.9111.ru/questions/q3322434-galoba-na-uchitelya.html">Имеет ли она права вести эти предметы?</a></h2>
+			<h2 class="subheader subheader__bg-grey"><span class="post_dt">сегодня 18:54</span><a href="http://www.9111.ru/questions/q3322371-vziskani-dolga-po-raspiske.html">Если есть решение суда о взыскании долга с физ</a></h2>
+			<h2 class="subheader subheader__bg-grey"><span class="post_dt">сегодня 18:50</span><a href="http://www.9111.ru/questions/q3321984-galobi.html">Помогите пожалуйста составить жалобу по вновь сло</a></h2>
+			<h2 class="subheader subheader__bg-grey"><span class="post_dt">сегодня 17:52</span><a href="http://www.9111.ru/questions/q3322012-ispolnitelnoe-proizvodstvo-po-alimentam.html">Можно ли подать в суд на пристава если он неправи</a></h2>
+			<h2 class="subheader subheader__bg-grey"><span class="post_dt">сегодня 17:50</span><a href="http://www.9111.ru/questions/q3321974-alimennti.html">Могу ли я подать на алименты, если ребенок на отца не записан и отец не хочет признавать ребенка</a></h2>
+			<h2 class="subheader subheader__bg-grey"><span class="post_dt">сегодня 17:38</span><a href="http://www.9111.ru/questions/q3321874-alementi-neustoyka.html">МОЙ БЫВШИЙ МУЖ В ТЕЧЕНИИ 10-И ЛЕТ НЕ ОПЛАЧИВАЕТ А</a></h2>
+			<h2 class="subheader subheader__bg-grey"><span class="post_dt">сегодня 17:38</span><a href="http://www.9111.ru/questions/q3321378-ipoteka-gile.html">, можем ли рассчитывать на какие-либо льготы при получении ипотеки</a></h2>
+			<h2 class="subheader subheader__bg-grey"><span class="post_dt">сегодня 17:14</span><a href="http://www.9111.ru/questions/q3321163-lgoti-invalidam-detstva.html">Какие льготы имеет инвалид детства родившийся до войны</a></h2>
+	<h2 class="subheader">Ссылка на мою анкету</h2><p style="font-size:1.2em;">&lt;a href="http://urist20146.9111.ru/"&gt;Моя анкета на www.9111.ru&lt;/a&gt;</p><img src="/lib/objects_stat.php?razdel=6&amp;obj_num=20146" class="i1" alt=""></div><div class="clear"></div></div>
